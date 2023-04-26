@@ -2,5 +2,5 @@
 def AddBook():
     print("Book add!")
 
-def DeleteBook():
+def ChangeBook():
     print("Book was deleted!")
